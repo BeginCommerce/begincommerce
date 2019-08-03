@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "Begin Commerce",
+  "name": "begin-commerce",
   "version": "0.0.0",
   "scripts": {
     "build": "lerna run build --parallel",
