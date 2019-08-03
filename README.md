@@ -5,11 +5,6 @@
 | Web | [![Netlify Status](https://api.netlify.com/api/v1/badges/d51d504c-b2df-42d3-bd4a-bf7daa57e724/deploy-status)](https://app.netlify.com/sites/begincommerce/deploys) |
 | Admin | [![Netlify Status](https://api.netlify.com/api/v1/badges/d51d504c-b2df-42d3-bd4a-bf7daa57e724/deploy-status)](https://app.netlify.com/sites/begincommerce/deploys) |
 
-
-A portfolio using structured content and a static site builder.
-
-Deployed from [sanity.io/create](https://www.sanity.io/create/?template=sanity-io%2Fsanity-template-gatsby-portfolio).
-
 ## What you have
 
 - A blazing fast portfolio with [Gatsby.js](https://gatsbyjs.org)
