@@ -2,7 +2,7 @@
   "private": true,
   "name": "begin-commerce",
   "version": "1.0.0",
-  "author": "Sanity <admin@begincommerce.com>",
+  "author": "Admin <admin@begincommerce.com>",
   "scripts": {
     "build": "gatsby build",
     "clean-cache": "gatsby clean",
