@@ -1,6 +1,7 @@
 # Begin Commerce
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d51d504c-b2df-42d3-bd4a-bf7daa57e724/deploy-status)](https://app.netlify.com/sites/begincommerce/deploys)
+| Web | [![Netlify Status](https://api.netlify.com/api/v1/badges/d51d504c-b2df-42d3-bd4a-bf7daa57e724/deploy-status)](https://app.netlify.com/sites/begincommerce/deploys) |
+| Admin | [![Netlify Status](https://api.netlify.com/api/v1/badges/d51d504c-b2df-42d3-bd4a-bf7daa57e724/deploy-status)](https://app.netlify.com/sites/begincommerce/deploys) |
 
 A portfolio using structured content and a static site builder.
 
